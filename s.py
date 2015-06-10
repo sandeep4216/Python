@@ -7,3 +7,7 @@
 num = "sunny"
 print(num[-1:])
 print(num[:-1])
+
+
+
+print(num[1])
